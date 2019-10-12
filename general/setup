@@ -1,0 +1,4 @@
+version: 3.4.3_2
+virtualenv file location: /usr/local/Cellar/opencv/3.4.3_2/lib/python3.7/site-packages/cv2.cpython-37m-darwin.so
+
+sys file location: /usr/local/lib/python3.7/site-packages
