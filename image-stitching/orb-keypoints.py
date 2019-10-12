@@ -2,8 +2,10 @@ import numpy as np
 import cv2
 from matplotlib import pyplot as plt
 
-img_left = cv2.imread("images/skier-left.jpg",0)
-img_right = cv2.imread("images/skier-right.jpg",0)
+# https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_orb/py_orb.html
+
+img_left = cv2.imread("images/skier/skier-left.jpg",0)
+img_right = cv2.imread("images/skier/skier-right.jpg",0)
 
 # Initiate detector
 orb = cv2.ORB_create(nfeatures=1000)
@@ -25,7 +27,7 @@ img2_left = cv2.drawKeypoints(img_left,keypoints_left, outImage=np.array([]), co
 img2_right = cv2.drawKeypoints(img_right,keypoints_right, outImage=np.array([]), color=keypointColor, flags=0)
 
 fig, axarr = plt.subplots(1,2)
-fig.suptitle("Extracted Image Keypoints")
+fig.suptitle("ORB Image Keypoints")
 
 ax1 = axarr[0]
 ax1.set_title("Left Image")
