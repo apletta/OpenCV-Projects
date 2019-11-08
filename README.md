@@ -17,18 +17,18 @@ Stitching two images from my living room using SIFT.
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/image-stitching/sift-stitching.png" alt="sift stitching" width="100%">
 
 ### Ski Jump Trajectory Visualization
-Idea for app that could estimate trajectory for going off a ski jump given 3 points, 1) starting location 2) bottom of jump 3) top of jump. Best performance when jump viewed directly from the side, can be viewed from either side. 
+Idea for app that could estimate trajectory for going off a ski jump by having user take a picture of the jump and select 3 points, 1) starting location 2) bottom of jump 3) top of jump. Users could build a jump and visually determine if the jump is big enough/how high to drop from/if they'll clear the landing by taking a picture with their phone. Best performance when jump viewed directly from the side, can be viewed from either side. 
 
-##### X Games Jump:
+#### X Games Jump:
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/jump_trajectory/example%20pics/xgames_wrap.jpg" alt="x games jump" width="100%">
 
-##### Beijing Jump:
+#### Beijing Jump:
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/jump_trajectory/example%20pics/beijing_wrap.jpg" alt="beijing jump" width="100%">
 
-##### Stop-Motion Jump:
+#### Stop-Motion Jump:
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/jump_trajectory/example%20pics/stop_motion2_wrap.jpg" alt="stop-motion jump" width="100%">
 
-##### Art of Flight Jump:
+#### Art of Flight Jump:
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/jump_trajectory/example%20pics/art_of_flight_wrap.jpg" alt="art of flight jump" width="100%">
 
 ### Ball Tracking with Canny Edge Detection
