@@ -123,8 +123,8 @@ class Stitcher:
 
 # load the two images and resize them to have a width of 400 pixels
 # (for faster processing)
-left_filepath = "images/skier/skier-left.jpg"
-right_filepath = "images/skier/skier-right.jpg"
+left_filepath = "images/living2/left.jpg"
+right_filepath = "images/living2/right.jpg"
 
 
 imageA = cv2.imread(left_filepath)
