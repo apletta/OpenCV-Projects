@@ -35,6 +35,10 @@ Idea for app that could estimate trajectory for going off a ski jump by having u
 Edge detection comparisons between color space representations:
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/ball_tracker/cannyed.png" alt="cannyed edge detection" width="100%">
 
+### CLAHE Image Processing
+[CLAHE](https://docs.opencv.org/master/d5/daf/tutorial_py_histogram_equalization.html) enhancement for improved visibility under flat light conditions:
+<img src="https://github.com/apletta/OpenCV-Projects/blob/master/clahe-skiing/comparison.png" alt="clahe enhancement" width="100%">
+
 ### Brightness Detection
 Brightest point:
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/brightness-detection/sun-glare-detection.png" alt="brightness detection" width="100%">
