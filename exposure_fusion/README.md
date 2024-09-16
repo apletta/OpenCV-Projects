@@ -2,6 +2,8 @@
 
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/exposure_fusion/exposure_fusion.png" alt="exposure fusion example" width="100%">
 
+> Note: adding CLAHE could further improve feature detection - [A Generic Image Processing Pipeline for Enhancing Accuracy and Robustness of Visual Odometry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9695527/)
+
 ## References
 - "Exposure Fusion" (2007), Tom Mertens, Jan Kautz, Frank Van Reeth: https://web.stanford.edu/class/cs231m/project-1/exposure-fusion.pdf
 > Original paper from Mertens for exposure fusion
