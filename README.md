@@ -47,5 +47,6 @@ Brightest point:
 Varying size, colors and overlaps:
 <img src="https://github.com/apletta/OpenCV-Projects/blob/master/circle_detect/results.png" alt="circle detection" width="100%">
 
-
-
+### Exposure Fusion (AEB/HDR)
+Fusing images with different exposure levels (Auto Exposure Bracketing / High Dynamic Range):
+<img src="https://github.com/apletta/OpenCV-Projects/blob/master/exposure_fusion/exposure_fusion.png" alt="exposure fusion example" width="100%">
